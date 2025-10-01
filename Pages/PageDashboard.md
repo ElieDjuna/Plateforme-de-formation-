@@ -1,8 +1,9 @@
 # Tableau de bord 📊
 
-Ici chaque utilisateur voit :
-- Ses cours
-- Ses contenus publiés
-- Ses paiements/abonnements
+Bienvenue, [Type de compte] !
+
+- Vos cours
+- Vos contenus publiés
+- Vos paiements / abonnements
 
 [Retour à l’accueil](PageAccueil.md)
