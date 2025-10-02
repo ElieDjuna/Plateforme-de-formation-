@@ -22,7 +22,7 @@ Pour vous abonner à notre plateforme (1€/mois), vous pouvez utiliser l'un des
 
 ## 📩 Formulaire de confirmation (manuel)
 
-Merci de remplir ce formulaire pour activer votre abonnement :
+Merci de remplir ceformulaire pour activer votre abonnement :
 
 - **Nom complet :**  
 - **Adresse e-mail :**  
