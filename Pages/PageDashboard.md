@@ -1,5 +1,3 @@
-# 📊 Tableau de bord
-
 ## 1️⃣ Étudiant {#etudiant}
 - Vos cours suivis
 - Progrès dans les leçons
