@@ -16,7 +16,7 @@ Pour payer votre abonnement et activer l'accès, cliquez ici : [Page Paiement](P
 - Gérer vos contenus et ressources
 
 ### 💰 Paiement / Abonnement 1€/mois
-Pour payer votre abonnement et activer l'accès, cliquez ici : [Page Paiement](PagePaiement.md)
+Pour payer votre abonnement et activer l'accès cliquez ici : [Page Paiement](PagePaiement.md)
 
 ---
 
