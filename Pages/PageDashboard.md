@@ -1,34 +1,29 @@
-# Tableau de bord 📊
+# 📊 Tableau de bord
 
-Bienvenue sur votre tableau de bord !
-
----
-
-## Étudiant 🎓
+## 1️⃣ Étudiant {#etudiant}
 - Vos cours suivis
 - Progrès dans les leçons
 - Accès aux nouvelles ressources
-- **Abonnement :** 1€/mois via Stripe ou PayPal  
-  [S’abonner](#)  
+
+### 💰 Paiement / Abonnement 1€/mois
+Pour payer votre abonnement et activer l'accès, cliquez ici : [Page Paiement](PagePaiement.md)
 
 ---
 
-## Formateur Pro 🧑‍🏫
+## 2️⃣ Formateur Pro {#formateur-pro}
 - Vos cours publiés
 - Statistiques de vos élèves
 - Gérer vos contenus et ressources
-- **Abonnement Pro :** 1€/mois via Stripe ou PayPal  
-  [S’abonner](#)  
+
+### 💰 Paiement / Abonnement 1€/mois
+Pour payer votre abonnement et activer l'accès, cliquez ici : [Page Paiement](PagePaiement.md)
 
 ---
 
-## Membre Standard 🧑
+## 3️⃣ Membre Standard {#membre-standard}
 - Explorer les cours
 - Découvrir de nouvelles formations
 - Accès limité aux ressources
-- **Abonnement :** 1€/mois via Stripe ou PayPal  
-  [S’abonner](#)  
 
----
-
-[Retour à l’accueil](PageAccueil.md)
+### 💰 Paiement / Abonnement 1€/mois
+Pour payer votre abonnement et activer l'accès, cliquez ici : [Page Paiement](PagePaiement.md)
