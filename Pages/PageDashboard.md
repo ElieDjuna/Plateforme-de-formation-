@@ -23,7 +23,7 @@ Pour payer votre abonnement et activer l'accès, cliquez ici : [Page Paiement](P
 ## 3️⃣ Membre Standard {#membre-standard}
 - Explorer les cours
 - Découvrir de nouvelles formations
-- Accès limité aux ressources
+- Accès limité aux  ressources
 
 ### 💰 Paiement / Abonnement 1€/mois
 Pour payer votre abonnement et activer l'accès, cliquez ici : [Page Paiement](PagePaiement.md)
