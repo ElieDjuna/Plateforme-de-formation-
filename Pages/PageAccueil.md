@@ -8,7 +8,7 @@ Choisissez votre type de compte et commencez à apprendre dès maintenant :
 ## 👩‍🏫 Formateur Pro
 [Accéder au tableau de bord Formateur Pro](PageDashboard.md#formateur-pro)
 
-## 🧑‍💼Membre Standard
+## 🧑‍💼 Membre Standard
 [Accéder au tableau de bord Membre Standard](PageDashboard.md#membre-standard)
 
 ---
