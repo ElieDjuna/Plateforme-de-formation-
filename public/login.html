@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Connexion / Inscription - Ramses</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Connexion / Inscription - Ramses</h1>
+  <form action="/dashboard" method="POST">
+    <input type="email" name="email" placeholder="Votre email" required><br>
+    <input type="password" name="password" placeholder="Mot de passe" required><br>
+    
+    <label for="role">Choisissez votre rôle :</label>
+    <select name="role" required>
+      <option value="Etudiant">Étudiant</option>
+      <option value="Formateur Pro">Formateur Pro</option>
+      <option value="Membre Standard">Membre Standard</option>
+    </select><br><br>
+    
+    <button type="submit">Se connecter</button>
+  </form>
+</body>
+</html>
