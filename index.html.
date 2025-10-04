@@ -7,15 +7,15 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Bienvenue sur la Plateforme de Formation</h1>
-  <p>Accédez à vos cours, connectez-vous ou inscrivez-vous pour commencer.</p>
-
-  <div>
-    <a href="accueil.html">Page d’accueil</a>
+  <nav>
+    <a href="index.html">Accueil</a>
     <a href="connexion.html">Connexion</a>
     <a href="inscription.html">Inscription</a>
     <a href="dashboard.html">Tableau de bord</a>
     <a href="paiement.html">Paiement</a>
-  </div>
+  </nav>
+
+  <h1>Bienvenue sur la Plateforme de Formation</h1>
+  <p>Accédez à vos cours, connectez-vous ou inscrivez-vous pour commencer.</p>
 </body>
 </html>
